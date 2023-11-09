@@ -1,4 +1,4 @@
-**QQ**: *Design Decisions, Assumptions, and Risks as Issues instead?*
+**QQ**: *Design Decisions, Assumptions, and Risks as Issues with tags instead?*
 
 This is the central documentation repository for the HOT project.
 
