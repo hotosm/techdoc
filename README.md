@@ -1,5 +1,3 @@
-**QQ**: *Design Decisions, Assumptions, and Risks as Issues with tags instead?*
-
 This is the central documentation repository for the HOT project.
 
 Project specific documentation can be found in the docs folder for the project. This the home of everything that does not belong to one specific project.
