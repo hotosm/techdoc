@@ -19,8 +19,8 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 
 ## Integration Sequence Diagrams
 *Currently reflects completed and in-progress integrations only*
+[Overarching Sequence Diagrams](Overarching%20Sequence%20Diagrams.pdf)
 [LibreOffice Source](Overarching%20Sequence%20Diagrams.odg)
-![Sequence Diagrams](Overarching%20Sequence%20Diagrams.pdf)
 
 ## Conceptual Data Model
 [LibreOffice Source](Overarching%20Data%20Model.odg)
