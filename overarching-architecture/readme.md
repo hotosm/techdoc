@@ -13,9 +13,14 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 ![Conceptual View](Overarching%20Diagrams%20-%20Conceptual.png)
 
 ## Information Flow
-*Currently reflects compelted and in-progress integrations only*
+*Currently reflects completed and in-progress integrations only*
 [LibreOffice Source](Overarching%20Diagrams%20-%20Info%20Flow.odg)
 ![Information Flow Diagram](Overarching%20Diagrams%20-%20Info%20Flow.png)
+
+## Integration Sequence Diagrams
+*Currently reflects completed and in-progress integrations only*
+[LibreOffice Source](Overarching%20Sequence%20Diagrams.odg)
+![Sequence Diagrams](Overarching%20Sequence%20Diagrams.pdf)
 
 ## Conceptual Data Model
 [LibreOffice Source](Overarching%20Data%20Model.odg)
