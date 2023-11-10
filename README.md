@@ -10,7 +10,7 @@ Here you can find:
 Architecture views (and other documentation) that is not specific to one HOTSM application and applicable across multiple or all.
 
 ## :seedling: [Development Standards and Patterns](standards) 
-Patterns and standards to guide development ncluding "How To" and "Getting Started" for developers
+Patterns and standards to guide development including "How To" and "Getting Started" for developers
 
 ## :notebook_with_decorative_cover: [The Architecture Decision Log](decisions)
 A register of all the key architecture decisions for the HOTSM ecosystem, including some detail around why each was decided.
