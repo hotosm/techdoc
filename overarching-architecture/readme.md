@@ -19,8 +19,6 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 
 ## Integration Sequence Diagrams
 *Currently reflects completed and in-progress integrations only*<br/>
-[Overarching Sequence Diagrams (PDF)](Overarching%20Sequence%20Diagrams.pdf)<br/>
-[LibreOffice Source](Overarching%20Sequence%20Diagrams.odg)
 
 |  |  |
 |--|--|
