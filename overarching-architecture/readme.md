@@ -18,7 +18,6 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 ![Information Flow Diagram](Overarching%20Diagrams%20-%20Info%20Flow.png)
 
 ## Integration Sequence Diagrams
-*Currently reflects completed and in-progress integrations only*<br/>
 
 |  |  |
 |--|--|
