@@ -22,7 +22,6 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 [Overarching Sequence Diagrams (PDF)](Overarching%20Sequence%20Diagrams.pdf)<br/>
 [LibreOffice Source](Overarching%20Sequence%20Diagrams.odg)
 
-|  |  |
 |--|--|
 | ![](Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png)|![](Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png) |
 
