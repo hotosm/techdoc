@@ -23,7 +23,9 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 [LibreOffice Source](Overarching%20Sequence%20Diagrams.odg)
 
 |--|--|
-| ![](Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png)|![](Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png) |
+| ![TM Tasks to FTM](Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png)|![FTM Task Status to TM](Overarching%20OSD%20-%20FTM%20Task%20Status%20to%20TM.png) |
+| ![]()|![]() |
+| ![]()|![]() |
 
 ## Conceptual Data Model
 [LibreOffice Source](Overarching%20Data%20Model.odg)<br/>
