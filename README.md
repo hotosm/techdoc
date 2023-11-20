@@ -4,7 +4,7 @@ Project specific documentation can be found in the docs folder for the project. 
 
 Here you can find:
 
-## More About the HOT Architecture
+## Learn About the HOT Architecture
 ### :star2: [Overarching Views of the Architecture](overarching-architecture)
 Architecture views (and other documentation) that is not specific to one HOTSM application and applicable across multiple or all.
 
@@ -17,7 +17,8 @@ A register of all the key architecture decisions for the HOTSM ecosystem, includ
 ### :bangbang: [Risk Log](risks)
 A register of all the overarching risks for the HOTSM ecosystem.
 
-## :pencil2: [Guidance around HOT's documentation approach](https://github.com/hotosm/techdoc/wiki)
+## Learn about the HOT Documentation Approach
+### :pencil2: [Guidance around HOT's documentation approach](https://github.com/hotosm/techdoc/wiki)
 Get your pencil out! Guidance around around how HOT documents solutions.
 
 ### :blue_book: [Technical Documentation Templates](templates)
