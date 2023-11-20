@@ -13,7 +13,13 @@ Patterns and standards to guide development including "How To" and "Getting Star
 ## :notebook_with_decorative_cover: [The Architecture Decision Log](decisions)
 A register of all the key architecture decisions for the HOTSM ecosystem, including some detail around why each was decided.
 
+## :bangbang: [Risk Log](risks)
+A register of all the overarching risks for the HOTSM ecosystem.
+
 ## :pencil2: [Guidance around HOT's documentation approach](https://github.com/hotosm/techdoc/wiki)
 Get your pencil out! Guidance around around how HOT documents solutions.
+
+## :blue_book: [Technical Documentation Templates](templates)
+Standard documentation templates for HOT technical documentation.
 
 You can visit the Humanitarian OpenStreetMap Team at https://github.com/hotosm and check out our pinned projects or browse through the full family of [HOTSM projects](https://github.com/orgs/hotosm/repositories).
