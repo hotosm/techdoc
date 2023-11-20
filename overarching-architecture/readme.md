@@ -8,6 +8,10 @@ The key features of this architecture are:
 
 Please refer to the [decisions](/decisions) log for details about HOT architecture decisions.
 
+## Solution User View
+LibreOffice Source(TBD)<br/>
+![Solution User View](HOT_SolutionUser.drawio.svg)
+
 ## Conceptual View
 [LibreOffice Source](Overarching%20Diagrams%20-%20Conceptual.odg)<br/>
 ![Conceptual View](Overarching%20Diagrams%20-%20Conceptual.png)
