@@ -34,4 +34,3 @@ LibreOffice Source(TBD)<br/>
 [LibreOffice Source](Overarching%20Data%20Model.odg)<br/>
 ![Conceptual Data Model](Overarching%20Data%20Model.png)
 
-<img src="Overarching%20OSD%20-%20TM%20Tasks%20to%20FTM.png" width="45%"/>
