@@ -1,6 +1,6 @@
 # Risk is stated Here
 | --- | --- | 
-| **Impact** | |
-| **Severity** | |
-| **Likelihood** | |
-| **Response** | |
+| **Impact** | . |
+| **Severity** | . |
+| **Likelihood** | . |
+| **Response** | . |
