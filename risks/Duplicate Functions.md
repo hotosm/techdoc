@@ -4,11 +4,11 @@ Cost of maintaining, supporting, and enhancing the code is higher.
 Issues might be addressed and fixed in one project but missed in others.
 
 ## Severity 
-Marginal
+MARGINAL
 Severity of the risk on this scale: negligible, marginal, critical, catastrophic. 
 
 ## Likelihood
-Certain
+CERTAIN
 Likelihood of the risk on this scale: rare, unlikely, possible, likely, certain.
 
 ## Response 
