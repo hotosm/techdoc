@@ -1,4 +1,5 @@
 # Tasking Manager Architecture
+[Risks](risks.md)  [Decisions](decisions.md)
 
 ## Solution User View
 ![Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.png)
