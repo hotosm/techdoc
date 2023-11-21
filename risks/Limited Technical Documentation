@@ -1,0 +1,15 @@
+# A lack of technical documentation could result in future development and support issues
+## Impact 
+Without clear documentation, ramping up new developers, troubleshooting issues, and adding new features takes much longer. 
+All of which slow progress and cost more.
+
+## Severity 
+CRITICAL
+Severity of the risk on this scale: negligible, marginal, critical, catastrophic. 
+
+## Likelihood
+LIKELY
+Likelihood of the risk on this scale: rare, unlikely, possible, likely, certain.
+
+## Response 
+Efforts are underway to put a documentation process, follow it to ensure documentation is in place for future projects and start filling gaps in historical projects
