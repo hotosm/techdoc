@@ -4,14 +4,18 @@
 
 
 ## Solution User View
+[TOC](#tasking-manager-architecture)
 ![Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.png)
 
 ## Conceptual View
+[TOC](#tasking-manager-architecture)
 ![Tasking Manager Conceptual](Tasking%20Manager%20Conceptual.png)
 
 ## Information Flow
+[TOC](#tasking-manager-architecture)
 ![Tasking Manager Information Flow](Tasking%20Manager%20Information%20Flow.png)
 
-## Component Model
+## Component Model 
+[TOC](#tasking-manager-architecture)
 ![Tasking Manager Component](Tasking%20Manager%20Component.png)
 
