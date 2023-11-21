@@ -1,16 +1,15 @@
-# Something
+# Risk is stated Here
 ## Impact 
-Cost of maintaining, supporting, and enhancing the code is higher.
-Issues might be addressed and fixed in one project but missed in others.
+Narrative explaining what bad will happen if this risk happens.
 
 ## Severity 
-MARGINAL
+Hoe bad will it be?
 Severity of the risk on this scale: negligible, marginal, critical, catastrophic. 
 
 ## Likelihood
-CERTAIN
+How possible is it that this happens?
 Likelihood of the risk on this scale: rare, unlikely, possible, likely, certain.
 
 ## Response 
-Potential changes required to other projects should be evaluated when a project is changed.
-A roadmap is being put in place to create a common, shaed code base.
+Narrative explanation of how this risk will be addressed. Will be a combination of how the risk will be managed.
+Some common approaches are: mitigation, monitoring, prepared a response, contracting to another party.
