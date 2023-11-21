@@ -1,10 +1,9 @@
 # Tasking Manager Architecture
 [Risks](Tasking%20Manager%20Risks.md) | [Decisions](Tasking%20Manager%20Decisions.md)<br/>
-[Solution User View](#solution-user-view) | [Conceptual View](#conceptual-view) | [Information Flow](#information-flow) | [Component Model](#component-model)
+[Conceptual View](#conceptual-view) | [Information Flow](#information-flow) | [Component Model](#component-model)
 
 
 ## Solution User View
-[TOC](#tasking-manager-architecture)
 ![Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.png)
 
 ## Conceptual View
