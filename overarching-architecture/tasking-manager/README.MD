@@ -1,5 +1,5 @@
 # Tasking Manager Architecture
-[Risks](Tasking%20Manager%20Risks.md) | [Decisions](Tasking%20Manager%20Decisions.md)
+[Risks](Tasking%20Manager%20Risks.md) | [Decisions](Tasking%20Manager%20Decisions.md)<br/>
 [Solution User View](#solution-user-view) | [Conceptual View](#conceptual) | [Information Flow](#information-flow) | [Component Model](#component-model)
 
 
