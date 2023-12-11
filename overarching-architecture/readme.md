@@ -12,10 +12,6 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 LibreOffice Source(TBD)<br/>
 ![Solution User View](HOT_SolutionUser.drawio.svg)
 
-## Conceptual View
-[LibreOffice Source](Overarching%20Diagrams%20-%20Conceptual.odg)<br/>
-![Conceptual View](Overarching%20Diagrams%20-%20Conceptual.png)
-
 ## Information Flow
 *Currently reflects completed and in-progress integrations only*<br/>
 [LibreOffice Source](Overarching%20Diagrams%20-%20Info%20Flow.odg)<br/>
