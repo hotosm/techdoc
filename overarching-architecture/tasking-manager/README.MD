@@ -4,7 +4,7 @@
 
 
 ## Solution User View
-![Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.png)
+![Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.pdf)
 
 ## Conceptual View
 [TOC](#tasking-manager-architecture)
