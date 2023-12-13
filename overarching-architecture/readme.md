@@ -14,8 +14,8 @@ LibreOffice Source(TBD)<br/>
 
 ## Information Flow
 *Currently reflects completed and in-progress integrations only*<br/>
-[LibreOffice Source](Overarching%20Diagrams%20-%20Info%20Flow.odg)<br/>
-![Information Flow Diagram](HOT%20Architecture%20Information%20Flow.png)
+[LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
+![Information Flow Diagram](HOT%20Information%20Flow.png)
 
 ## Integration Sequence Diagrams
 
