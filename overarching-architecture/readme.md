@@ -13,9 +13,12 @@ LibreOffice Source(TBD)<br/>
 ![Solution User View](HOT_SolutionUser.drawio.svg)
 
 ## Information Flow
-*Currently reflects completed and in-progress integrations only*<br/>
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
 ![Information Flow Diagram](HOT%20Information%20Flow.png)
+
+## Component Model
+[LibreOffice Source](HOT%20Component%20Diagram.odg)<br/>
+![Information Flow Diagram](HOT%20Component%20Diagram.png)
 
 ## Integration Sequence Diagrams
 
