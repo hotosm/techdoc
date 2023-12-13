@@ -6,7 +6,7 @@ The key features of this architecture are:
 * A common data model based on standards and only extending as required
 * Fit for purpose front-ends, built on REACT
 
-Please refer to the [decisions](/decisions) log for details about HOT architecture decisions.
+Please refer to the [decisions](/decisions) log for details about HOT architecture decisions. 
 
 ## Solution User View
 LibreOffice Source(TBD)<br/>
