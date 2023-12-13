@@ -18,7 +18,7 @@ LibreOffice Source(TBD)<br/>
 
 ## Component Model
 [LibreOffice Source](HOT%20Component%20Diagram.odg)<br/>
-![Component Diagram](HOT%20Component%20Diagram.png)
+![Component Diagram](HOT%20Component%20Diagram.jpg)
 
 ## Integration Sequence Diagrams
 
