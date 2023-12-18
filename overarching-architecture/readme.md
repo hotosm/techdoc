@@ -8,8 +8,8 @@ The key features of this architecture are:
 
 Please refer to the [decisions](/decisions) log for details about HOT architecture decisions. 
 
-## HOT Overarching Vview
-https://github.com/hotosm/techdoc/blob/main/overarching-architecture/HOT%20Overarching%20Block%20Diagram.png
+## HOT Overarching View
+[LibreOffice Source](HOT%20Overarching%20Block%20Diagram.odg)<br/>
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
 ## Solution User View
