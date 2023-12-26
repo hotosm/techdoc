@@ -13,4 +13,4 @@ Likelihood of the risk on this scale: rare, unlikely, possible, likely, certain.
 
 ## Response 
 Potential changes required to other projects should be evaluated when a project is changed.
-A roadmap is being put in place to create a common, shaed code base.
+A roadmap is being put in place to create a common, shared code base.
