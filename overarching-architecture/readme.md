@@ -37,10 +37,12 @@ LibreOffice Source(TBD)<br/>
 ## E2E Data Integration Diagrams
 [LibreOffice Source](E2E%20Data%20Integration%20Layer.odg)<br/>
 ![Conceptual Data Model](E2E%20Data%20Integration%20Layer.jpg)
+<br/>
+![Conceptual Data Model](E2E%20Data%20Integration%20Layer%20-%20Zoom.jpg)
 
 ## E2E Conceptual Data Model
 [LibreOffice Source](Overarching%20Data%20Model.odg)<br/>
-![Conceptual Data Model](Overarching%20Data%20Model.png)
+![Conceptual Data Model](E2E%20Draft%20Data%20Model.pngg)
 
 
 
