@@ -42,7 +42,7 @@ LibreOffice Source(TBD)<br/>
 
 ## E2E Conceptual Data Model
 [LibreOffice Source](Overarching%20Data%20Model.odg)<br/>
-![Conceptual Data Model](E2E%20Draft%20Data%20Model.pngg)
+![Conceptual Data Model](E2E%20Draft%20Data%20Model.png)
 
 
 
