@@ -13,9 +13,8 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
 ## Solution User View
-LibreOffice Source(TBD)<br/>
-
-![Solution User View](HOT%20Overarching%20Solution%20User.png)
+[LibreOffice Source](HOT%20Solution%20User.odg)<br/>
+![Solution User View](HOT%20Solution%20User.png)
 
 ## Information Flow
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
