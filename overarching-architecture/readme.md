@@ -14,7 +14,8 @@ Please refer to the [decisions](/decisions) log for details about HOT architectu
 
 ## Solution User View
 LibreOffice Source(TBD)<br/>
-![Solution User View](HOT_SolutionUser.drawio.svg)
+
+![Solution User View](HOT%20Overarching%20Solution%20User.png)
 
 ## Information Flow
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
