@@ -29,19 +29,22 @@ A component model is a static view that shows how the components in the architec
 ![Component Diagram](HOT%20Component%20Diagram.jpg)
 
 ## E2E Data Integration Diagrams
+This is the high level concept for the E2E data integration approach. The TD Admin components in the center are not actually a hub instance, but a set of shared modules sued for connectivity.
 [LibreOffice Source](E2E%20Data%20Integration%20Layer.odg)<br/>
 ![Conceptual Data Model](E2E%20Data%20Integration%20Layer.jpg)
 <br/>
+Here is a zoom in showing how that would work between two components.<br/>
 ![Conceptual Data Model](E2E%20Data%20Integration%20Layer%20-%20Zoom.png))
 
 ## E2E Integration Sequence Diagrams
-
+These show the interactions between multiple components at a more detailed level.
 |  |  |
 |--|--|
 | <img src="OSDs/Overarching%20OSD%20-%20TM%20User%20Profiles%20to%20FTM.png" width="90%"/> | <img src="OSDs/Overarching%20OSD%20-%20TM%20Org%20Profiles%20to%20FTM.png" width="90%"/> |
 | <img src="OSDs/Overarching%20OSD%20-%20TM%20Projects%20to%20FTM.png" width="90%"/> | . |
 
 ## E2E Conceptual Data Model
+This is a conceptual data model, illustrating the key entities and relationship in the data model.
 [LibreOffice Source](Overarching%20Data%20Model.odg)<br/>
 ![Conceptual Data Model](E2E%20Draft%20Data%20Model.png)
 
