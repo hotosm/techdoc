@@ -9,27 +9,27 @@ The key features of this architecture are:
 Please refer to the [decisions](/decisions) log for details about HOT architecture decisions. 
 
 ## HOT Overarching View
-This is an overarching view of the HOT ecosystem of solutions. It includes some key non-HOT components for context and because they serve an important role in the ecosystem.</br>
+This is an overarching view of the HOT ecosystem of solutions. It includes some key non-HOT components for context and because they serve an important role in the ecosystem.</br></br>
 [LibreOffice Source](HOT%20Overarching%20Block%20Diagram.odg)<br/>
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
 ## Solution User View
-A solution user view provides a user-centric view of an architecture showing the key user roles and what actuivities they will perform using the solution.<br/>
+This solution user view provides a user-centric view of the HOT architecture showing the key user roles and what activities they will perform using the solution. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#solution-user-diagram)<br/><br/>
 [LibreOffice Source](HOT%20Solution%20User.odg)<br/>
 ![Solution User View](HOT%20Solution%20User.png)
 
 ## Information Flow
-An information flow is a dynamic view that shows the flow of information (in high level business terms) between the components in the architecture.<br/>
+This information flow is a dynamic view that shows the flow of information (in high level business terms) between the HOT ecosystem components.You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow)<br/><br/>
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
 ![Information Flow Diagram](HOT%20Information%20Flow.png)
 
 ## Component Model
-A component model is a static view that shows how the components in the architecture connect to one another.</br>
+This component model is a static view that shows how the HOT ecosystem components connect to one another. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#component-model)<br/><br/>
 [LibreOffice Source](HOT%20Component%20Diagram.odg)<br/>
 ![Component Diagram](HOT%20Component%20Diagram.jpg)
 
 ## E2E Data Integration Diagrams
-This is the high level concept for the E2E data integration approach. The TD Admin components in the center are not actually a hub instance, but a set of shared modules sued for connectivity.
+This is the high level concept for the E2E data integration approach. The TD Admin components in the center are not actually a hub instance, but a set of shared modules used for connectivity.
 [LibreOffice Source](E2E%20Data%20Integration%20Layer.odg)<br/>
 ![Conceptual Data Model](E2E%20Data%20Integration%20Layer.jpg)
 <br/>
