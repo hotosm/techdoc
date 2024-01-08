@@ -29,7 +29,7 @@ This component model is a static view that shows how the HOT ecosystem component
 ![Component Diagram](HOT%20Component%20Diagram.jpg)
 
 ## E2E Data Integration Diagrams
-This is the high level concept for the E2E data integration approach. The TD Admin components in the center are not actually a hub instance, but a set of shared modules used for connectivity.
+This is the high level concept for the E2E data integration approach. The TD Admin components in the center are not actually a hub instance, but a set of shared modules used for connectivity.<br/><br/>
 [LibreOffice Source](E2E%20Data%20Integration%20Layer.odg)<br/>
 ![Conceptual Data Model](E2E%20Data%20Integration%20Layer.jpg)
 <br/>
