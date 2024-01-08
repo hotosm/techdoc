@@ -14,17 +14,17 @@ This is an overarching view of the HOT ecosystem of solutions. It includes some 
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
 ## Solution User View
-This solution user view provides a user-centric view of the HOT architecture showing the key user roles and what activities they will perform using the solution. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#solution-user-diagram)<br/><br/>
+This solution user view provides a user-centric view of the HOT architecture showing the key user roles and what activities they will perform using the solution. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#solution-user-diagram).<br/><br/>
 [LibreOffice Source](HOT%20Solution%20User.odg)<br/>
 ![Solution User View](HOT%20Solution%20User.png)
 
 ## Information Flow
-This information flow is a dynamic view that shows the flow of information (in high level business terms) between the HOT ecosystem components.You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow)<br/><br/>
+This information flow is a dynamic view that shows the flow of information (in high level business terms) between the HOT ecosystem components.You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow).<br/><br/>
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
 ![Information Flow Diagram](HOT%20Information%20Flow.png)
 
 ## Component Model
-This component model is a static view that shows how the HOT ecosystem components connect to one another. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#component-model)<br/><br/>
+This component model is a static view that shows how the HOT ecosystem components connect to one another. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#component-model).<br/><br/>
 [LibreOffice Source](HOT%20Component%20Diagram.odg)<br/>
 ![Component Diagram](HOT%20Component%20Diagram.jpg)
 
