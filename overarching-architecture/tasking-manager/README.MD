@@ -13,7 +13,7 @@ This conceptual view shows how the users engage with the tasking manager archite
 
 ## Information Flow
 [Return to TOC ^](#tasking-manager-architecture)<br/>
-This information flow is a dynamic view that shows the flow of information (in high level business terms) between the Tasking Manager components in the architecture. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow).<br/><br/>
+This information flow is a dynamic view that shows the flow of information (in high level business terms) between the components in the Tasking Manager architecture. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow).<br/><br/>
 ![Tasking Manager Information Flow](Tasking%20Manager%20Information%20Flow.png)
 
 ## Component Model 
