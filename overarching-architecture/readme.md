@@ -9,18 +9,22 @@ The key features of this architecture are:
 Please refer to the [decisions](/decisions) log for details about HOT architecture decisions. 
 
 ## HOT Overarching View
+This is an overarching view of the HOT ecosystem of solutions. </br>
 [LibreOffice Source](HOT%20Overarching%20Block%20Diagram.odg)<br/>
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
 ## Solution User View
+A solution user view provides a user-centric view of an architecture showing the key user roles and what actuivities they will perform using the solution.<br/>
 [LibreOffice Source](HOT%20Solution%20User.odg)<br/>
 ![Solution User View](HOT%20Solution%20User.png)
 
 ## Information Flow
+An information flow is a dynamic view that shows the flow of information (in high level business terms) between the components in the architecture.<br/>
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
 ![Information Flow Diagram](HOT%20Information%20Flow.png)
 
 ## Component Model
+A component model is a static view that shows how the components in the architecture connect to one another.</br>
 [LibreOffice Source](HOT%20Component%20Diagram.odg)<br/>
 ![Component Diagram](HOT%20Component%20Diagram.jpg)
 
