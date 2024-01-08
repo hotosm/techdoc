@@ -19,7 +19,7 @@ This solution user view provides a user-centric view of the HOT architecture sho
 ![Solution User View](HOT%20Solution%20User.png)
 
 ## Information Flow
-This information flow is a dynamic view that shows the flow of information (in high level business terms) between the HOT ecosystem components.You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow).<br/><br/>
+This information flow is a dynamic view that shows the flow of information (in high level business terms) between the HOT ecosystem components. You can learn more about the diagram and notation [here](https://github.com/hotosm/techdoc/wiki/Architecture-Documents-Walkthrough#information-flow).<br/><br/>
 [LibreOffice Source](HOT%20Information%20Flow.odg)<br/>
 ![Information Flow Diagram](HOT%20Information%20Flow.png)
 
