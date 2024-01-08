@@ -9,7 +9,7 @@ The key features of this architecture are:
 Please refer to the [decisions](/decisions) log for details about HOT architecture decisions. 
 
 ## HOT Overarching View
-This is an overarching view of the HOT ecosystem of solutions. </br>
+This is an overarching view of the HOT ecosystem of solutions. It includes some key non-HOT components for context and because they serve an important role in the ecosystem.</br>
 [LibreOffice Source](HOT%20Overarching%20Block%20Diagram.odg)<br/>
 ![Overarching](HOT%20Overarching%20Block%20Diagram.png)
 
