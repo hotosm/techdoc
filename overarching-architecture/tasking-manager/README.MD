@@ -3,7 +3,7 @@
 [Conceptual View](#conceptual-view) | [Information Flow](#information-flow) | [Component Model](#component-model)
 
 ## Solution User View
-A solution user view provides a user-centric view of an architecture showing the key user roles and what actuivities they will perform using the solution.
+A solution user view provides a user-centric view of an architecture showing the key user roles and what actuivities they will perform using the solution.<br/>
 [Tasking Manager Solution User](Tasking%20Manager%20Solution%20User.pdf)
 
 ## Conceptual View
